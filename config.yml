@@ -1,0 +1,25 @@
+# -----------------------------------------------------------------------------
+# Site Identity & SEO Configuration
+# -----------------------------------------------------------------------------
+title: "Geoffroy AMEGBLETO | Data Portfolio"
+description: "Data Analyst & Aspiring Data Scientist exploring insights through R, Excel, Power BI, and Machine Learning."
+url: "https://geoffroyamegbleto4-ux.github.io"
+baseurl: "/Data-Analyst-Projects"
+
+# -----------------------------------------------------------------------------
+# GitHub Pages Theme Configuration
+# -----------------------------------------------------------------------------
+# Cayman is modern, high-contrast, and clean for data portfolios.
+# Alternative themes: jekyll-theme-minimal, jekyll-theme-primer, jekyll-theme-slate
+theme: jekyll-theme-cayman
+
+# Enable project repository header links
+show_downloads: false
+
+# -----------------------------------------------------------------------------
+# Markdown & Formatting Options
+# -----------------------------------------------------------------------------
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
